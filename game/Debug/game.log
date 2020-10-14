@@ -1,0 +1,8 @@
+﻿  MyGame.cpp
+C:\Users\hbahe\Documents\C++ Project\cars_w\game\MyGame.cpp(75,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hbahe\Documents\C++ Project\cars_w\game\MyGame.cpp(85,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hbahe\Documents\C++ Project\cars_w\game\MyGame.cpp(100,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hbahe\Documents\C++ Project\cars_w\game\MyGame.cpp(100,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hbahe\Documents\C++ Project\cars_w\game\MyGame.cpp(106,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hbahe\Documents\C++ Project\cars_w\game\MyGame.cpp(106,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  game.vcxproj -> C:\Users\hbahe\Documents\C++ Project\cars_w\Debug\cars.exe

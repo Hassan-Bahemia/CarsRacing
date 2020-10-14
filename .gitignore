@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+.vs/cars_w/v16/
+
+.vs/cars_w/
